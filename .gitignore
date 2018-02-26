@@ -31,4 +31,6 @@ node_modules
 
 \.vscode/
 
-public/
+public/**/*
+!public/images/*
+!public/index.html
